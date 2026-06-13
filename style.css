@@ -52,3 +52,12 @@ h1 {
     gap: 12px;
     margin-bottom: 25px;
 }
+
+input,
+select {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid gray;
+    border-radius: 6px;
+    background-color: white;
+}
