@@ -67,3 +67,17 @@ select:focus {
     outline: none;
     border-color: darkblue;
 }
+
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 14px;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
