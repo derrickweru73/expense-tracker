@@ -15,3 +15,18 @@ body {
     min-height: 100vh;
     padding: 20px;
 }
+
+/* 2. Main Container */
+.container {
+    background: white;
+    width: 100%;
+    max-width: 600px;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+    margin-bottom: 25px;
+}
