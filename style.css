@@ -30,3 +30,13 @@ h1 {
     color: darkblue;
     margin-bottom: 25px;
 }
+
+/* 3. Summary Card (Total Display) */
+.summary-card {
+    background: darkcyan;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    margin-bottom: 25px;
+}
