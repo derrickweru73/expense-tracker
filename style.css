@@ -95,3 +95,15 @@ button:hover {
 .filters label {
     color: black;
 }
+
+/* 6. Dynamic Expense List */
+.list-container {
+    margin-top: 10px;
+}
+
+#expense-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
